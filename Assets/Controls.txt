@@ -1,0 +1,2 @@
+W/Arrow Up - Вверх
+S/Arrow Down - Вниз
